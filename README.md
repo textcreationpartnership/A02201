@@ -35,9 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The true and perfecte newes of the woorthy and valiaunt exploytes, performed and doone by that valia
+
+1. To the Right Honourable and hys singuler good Lord, George Clifford, Earle of Cumberland: Thomas Greepe wysheth long life, encrease of honor, with happy and eternall felicitie.
+
+1. To the Reader.
+
 #####Body#####
-The true and perfecte newes of the woorthy and valiaunt exploytes, performed and doone by that valia
+
+1. The true and perfect Newes of the worthy and valiant exploytes atchiued and doone by that valiaunt Knight, Syr Frauncis Drake.
+To the right reuerende, godly learned Father, my very good freend, M. Iohn Fox, preacher of the word
 **Types of content**
 
   * There are 426 **verse** lines!
